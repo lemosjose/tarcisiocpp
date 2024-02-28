@@ -1,0 +1,26 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/lemos/Projetos/Tarcisio/src/aula3/Aula",
+    "file": "/home/lemos/Projetos/Tarcisio/src/aula3/Aula/main.cpp",
+    "output": "/home/lemos/Projetos/Tarcisio/src/aula3/Aula/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "main",
+      "vetor.cpp"
+    ],
+    "directory": "/home/lemos/Projetos/Tarcisio/src/aula3/Aula",
+    "file": "/home/lemos/Projetos/Tarcisio/src/aula3/Aula/vetor.cpp",
+    "output": "/home/lemos/Projetos/Tarcisio/src/aula3/Aula/main"
+  }
+]
